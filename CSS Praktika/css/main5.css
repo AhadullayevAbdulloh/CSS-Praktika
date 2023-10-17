@@ -1,0 +1,23 @@
+.bir{
+    border: 1px solid black;
+    width: 600px;
+    height: 400px;
+    background-color: black;
+
+}
+.ikki{
+    width: 400px;
+    height: 200px;
+    margin: 90px 100px;
+    background: linear-gradient(90deg,purple, blue,green);
+    box-shadow: 0 0 50px #40d630;
+}
+.uch{
+    width: 395px;
+    height: 195px;
+    background-color: black;
+    position: absolute;
+    left: 112px;
+    top: 102px;
+
+}

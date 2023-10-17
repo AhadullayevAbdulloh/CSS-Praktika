@@ -1,0 +1,297 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.kotta1234{
+    display: inline-block;
+}
+.Bir{
+    background-color: white;
+}
+.border{
+    background-color: blue;
+    width: 250px;
+    height: 60px;
+    margin-top: -65px;
+    margin-left: 1460px;
+    border-radius: 5px;
+}
+.navbar-menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: -60px;
+    margin-right:   8700px;
+}
+.navbar-item{
+    display: inline-block;
+    padding: 25px 10px;
+    font-size: 25px;
+}
+.navbar-item a{
+    color: gray;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.Uzum-bank{
+    margin-top: 40px;
+    margin-left: 240px;
+}
+.Achki{
+    margin-left: 1190px;
+    margin-top: -48px;
+}
+.bir-ekan{
+    position: relative;
+    padding-right: 25px;
+}
+.yer{
+    margin-left: 1280px;
+    margin-top: -40px;
+}
+.Ozbek{
+    margin-left: 1325px;
+    margin-top: -68px;
+    font-size: 23px;
+    color: gray;
+}
+.Akkaunt{
+    margin-left: 1500px;
+    margin-top: -47px;
+    font-size: 23px;
+    color: white;
+}
+.border1{
+    border: solid whitesmoke 1px;
+    width: 2060px;
+    margin-top: 30px;
+    margin-left: 250px;
+}
+.navbar-menu12{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: 20px;
+    margin-right:   8500px;
+}
+.navbar-item12{
+    display: inline-block;
+    padding: 25px 10px;
+    font-size: 25px;
+}
+.navbar-item12 a{
+    color: gray;
+    text-decoration: none;
+    margin: 20px;
+}
+.Poisik{
+    margin-top: -40px;
+    margin-left: 1700px;
+}
+.border2{
+    margin-top:     40px;
+    background-color:white;
+    width: 2060px;
+    height: 550px;
+}
+.border6{
+    border: solid whitesmoke 3px;
+    margin-top: 40px;
+    width: 2060px;
+}
+.ishonchli{
+    color: blue;
+    margin-top: -550px;
+    font-size: 70px;
+    margin-left: 230px;
+}
+.orta{
+    color: black;
+    margin-top:   -40px;
+    font-size: 25px;
+    margin-left: 230px;
+}
+.USSD{
+    margin-left: 650px;
+    margin-top: 50px;
+}
+.Google-play{
+    margin-top: 10px;
+    margin-left: 650px;
+}
+.AppGallery{
+    margin-top: -159px;
+    margin-left: 420px;
+}
+.AppStore{
+    margin-top: 10px;
+    margin-left: 420px;
+}
+.Uzum{
+    margin-top: -473px;
+    margin-left: 900px;
+}
+.border3{
+    border: solid gray 5px ;
+    margin-top: 50px;
+    width: 2060px   ;
+}
+.border4{
+    margin-top: -50px;
+    background-color: white ;
+    width: 10000px;
+    height: 600px;
+}
+.Olcha{
+    margin-top: -606px;
+}
+.border7{
+    border: solid whitesmoke ;
+    margin-top: -9px;
+    width: 2060px;
+}
+.border8{
+    background-color: white;
+    width: 3000px;
+    height: 500px;
+}
+.Uzum-bank12{
+    margin-left: 55px;
+    margin-top: -500px;
+}
+.Uzum-bank122{
+    margin-left: 5px;
+    margin-top: -500px;
+}
+
+/*.Valyuta{*/
+/*    margin-top: 400px;*/
+/*    margin-left: 800px;*/
+/*}*/
+.navbar-menu122{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: -20px;
+}
+.navbar-item122{
+    display: inline-block;
+    /*padding: 40px 10px;*/
+    font-size: 20px;
+    padding-right:  7160px;
+    padding-top: -250px;
+}
+.navbar-item122 a{
+    color: blue;
+    margin: 20px;
+
+}
+.border91{
+    border: solid whitesmoke 3px;
+    width: 2060px;
+    margin-top: 50px;
+}
+.border11{
+    background-color: white;
+    margin-top: 2px;
+    width: 2060px;
+    height: 600px;
+}
+.Pas{
+    font-size: 35px;
+    margin-top: -550px;
+    margin-left: 500px;
+    color: blue;
+}
+.olti3{
+    margin-top: 550px;
+    margin-left: 430px;
+}
+.border12{
+    border: solid whitesmoke 3px;
+}
+.border13{
+    background-color: white;
+    width: 1060px;
+    height: 400px;
+}
+.Ohri{
+font-size: 70px;
+color: blue;
+margin-top: -450px;
+    margin-left: 500px;
+}
+.navbar12232{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: -50px;
+    font-size: 20px;
+}
+.navbar-item12232{
+    display: inline-block;
+    padding-right:  8560px;
+    padding-top: -250px;
+}
+.navbar-item12232 a{
+    color: black;
+    margin: 20px;
+    text-decoration: none;
+}
+.bankamat{
+    margin-left: 1200px;
+    margin-top: -350px;
+}
+.toqiz3{
+    margin-top: 230px;
+    margin-left: -600px;
+}
+.on3{
+    margin-top: 300px;
+    margin-left: -700px;
+}
+.border131{
+    margin-top: 65px;
+    border: solid whitesmoke 3px;
+}
+.border14{
+    width: 2060px;
+    height: 1200px;
+}
+.border15{
+    border: solid rgba(213,206,255,0.81) 3px ;
+    background-color: rgba(213,206,255,0.81);
+    border-radius: 15px;
+    width: 400px ;
+    height: 1000px;
+    margin-left: 550px;
+    margin-top:  -1150px;
+}
+.border116{
+    background-color: white;
+    width: 90px;
+    height: 20px;
+    margin-top: -980px;
+    margin-left: 570px;
+}
+.navbar122221{
+    margin: 0;
+    padding: 0;
+    margin-top: -50px;
+    font-size: 20px;
+    padding-left: -8000px;
+}
+.navbar-item122221{
+    display: inline-block;
+    padding-right:  8560px;
+    padding-top: -250px;
+    text-align: center;
+    
+}
+.navbar-item122221 a{
+    color: black;
+    margin: 20px;
+    text-decoration: none;
+}

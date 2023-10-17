@@ -1,0 +1,242 @@
+.gool1{
+    border: 1px solid limegreen;
+    width: 190px;
+    height: 35px;
+    text-align: center;
+    background-color: limegreen;
+    color: white;
+    padding-top: 10px;
+    border-radius: 7px;
+}
+.gool2{
+    border: 1px solid lawngreen;
+    width: 190px;
+    height: 35px;
+    text-align: center;
+    background-color: lawngreen;
+    color: white;
+    padding-top: 10px;
+    border-radius: 7px;
+}
+.gool3{
+     border: 1px solid green;
+     width: 190px;
+     height: 35px;
+     text-align: center;
+     background-color: green;
+     color: white;
+     padding-top: 10px;
+     border-radius: 7px;
+ }
+.ranal{
+    /*border: 1px solid black;*/
+    margin-left: 250px;
+    margin-bottom: 90px;
+    margin-top: -250px;
+}
+.sport1{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.ball1{
+    border: 1px solid dodgerblue;
+    width: 190px;
+    height: 35px;
+    text-align: center;
+    background-color: dodgerblue;
+    color: white;
+    padding-top: 10px;
+    border-radius: 7px;
+}
+.ball2{
+    border: 1px solid deepskyblue;
+    width: 190px;
+    height: 35px;
+    text-align: center;
+    background-color: deepskyblue;
+    color: white;
+    padding-top: 10px;
+    border-radius: 7px;
+}
+.ball3{
+    border: 1px solid blue;
+    width: 190px;
+    height: 35px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding-top: 10px;
+    border-radius: 7px;
+}
+.ball{
+    margin-left: 650px;
+    margin-top: -222px;
+}
+
+.remboy1{
+    border: 1px solid lightgrey;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: lightgrey;
+    color: grey;
+    border-radius: 7px;
+}
+.remboy2{
+    border: 1px solid lightgrey;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: lightgrey;
+    color: grey;
+    border-radius: 7px;
+}
+.remboy3{
+    border: 1px solid lightgrey;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: lightgrey;
+    color: grey;
+    border-radius: 7px;
+}
+.remboy4{
+    border: 1px solid lightgrey;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: lightgrey;
+    color: grey;
+    border-radius: 7px;
+}
+.remboy{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.cel1{
+    border: 1px solid lightgrey;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: grey;
+    border-radius: 7px;
+}
+.cel2{
+    border: 1px solid lightgrey;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: grey;
+    border-radius: 7px;
+}
+.cel3{
+    border: 1px solid lightgrey;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: grey;
+    border-radius: 7px;
+}
+.cel4{
+    border: 1px solid lightgrey;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: grey;
+    border-radius: 7px;
+}
+.chelsi{
+    margin-left: 230px;
+    margin-top: -250px;
+}
+
+.ci1{
+    border: 1px solid lightgrey;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: black;
+    border-radius: 7px;
+}
+.ci2{
+    border: 1px solid lightgrey;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: black;
+    border-radius: 7px;
+}
+.ci3{
+    border: 1px solid lightgrey;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: black;
+    border-radius: 7px;
+}
+.ci4{
+    border: 1px solid lightgrey;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: black;
+    border-radius: 7px;
+}
+.city{
+    margin-left: 440px;
+    margin-top: -250px;
+}
+
+.ps1{
+    border: 1px solid steelblue;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: black;
+    border-radius: 7px;
+}
+.ps2{
+    border: 1px solid steelblue;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: black;
+    border-radius: 7px;
+}
+.ps3{
+    border: 1px solid steelblue;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: black;
+    border-radius: 7px;
+}
+.ps4{
+    border: 1px solid steelblue;
+    width: 180px;
+    height: 35px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: black;
+    border-radius: 7px;
+}
+.psj{
+    margin-left: 650px;
+    margin-top: -250px;
+}

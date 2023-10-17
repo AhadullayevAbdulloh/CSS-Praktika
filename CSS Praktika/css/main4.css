@@ -1,0 +1,26 @@
+.sariq{
+    border: 1px solid black;
+    width: 1000px;
+    height: 350px;
+    background-color: orange;
+}
+.bir{
+    border: 2px solid black;
+    width: 300px;
+    height: 140px;
+    margin: 90px 40px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 8px 8px 2px black;
+    background: linear-gradient(90deg, white,gold);
+}
+.ikki{
+    border: 2px solid black;
+    width: 300px;
+    height: 140px;
+    margin: 90px 50px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 8px 8px 2px black;
+    background: linear-gradient(90deg, white,darkgray);
+}
